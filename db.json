@@ -13,6 +13,10 @@
         {
           "id": 8,
           "username": "goodwin"
+        },
+        {
+          "id": 1,
+          "username": "hipHipArrayClub"
         }
       ]
     },
@@ -200,10 +204,6 @@
     },
     {
       "id": 6,
-      "username": "steuber"
-    },
-    {
-      "id": 7,
       "username": "steuber"
     },
     {
